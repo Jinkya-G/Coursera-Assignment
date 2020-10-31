@@ -1,0 +1,30 @@
+.jumbotron {
+    background-color: gray;
+    font-family: Trebuchet MS;
+}
+.footer{
+    background-color: lightsteelblue;
+    padding-top: 15px;
+    margin-top: 15px;
+}
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+.navbar{
+    background-color: rgba(95, 70, 95);
+}
+#mycarousel{
+    background-color: rgba(95, 70, 95);
+}
+.modal-header, close{
+    background-color: rgba(95, 70, 95);
+color: floralwhite;
+
+}
+.close{
+color: floralwhite;
+}
+.modal-body{
+    background-color: #B3b3b3;
+}
