@@ -1,5 +1,6 @@
-It is a Coursera Assignment Repository For
+<h3>It is a Coursera Assignment Repository For</h3>
 
-HTML, CSS, and JavaScript for Web Developers
+<h1>HTML, CSS, and JavaScript for Web Developers</h1>
 
-By: - Johns Hopkins University
+<h2>By: - Johns Hopkins University</h2>
+
