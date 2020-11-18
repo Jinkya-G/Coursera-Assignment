@@ -4,3 +4,5 @@
 
 <h2>By: - Johns Hopkins University</h2>
 
+  It has all the assignments of this Coursera Course.
+
